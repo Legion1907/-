@@ -1,6 +1,6 @@
 {
  "name":" จนกว่าต้นทางจะดับ ",
- "author": "Not",
+ "author": "อุ๋ง อุ๋ง",
  "image": "https://image.makewebeasy.net/makeweb/0/bci5CLKdr/CAB/av_cable_3in_3out_5m.jpg",
  "url": "",
  "groups":
@@ -1742,5 +1742,4 @@ stations:[
 {"name":"720p","image":"https://cdn3.iconfinder.com/data/icons/video-icons-2/299/720p-512.png",
 "url": "https://cdn4.cdn9x.com/oqdddgs2/720p.m3u8",
 "referer": "https://cdn9x.com/"},
-{"name…"
- https://raw.githubusercontent.com/tevadaa12/m3uNow/main/JPAV.PAV#:~:text=%7B%0A%20%22name%22%3A%22%20%E0%B8%88%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87,https%3A//cdn9x.com/%22%7D%2C%5D%7D%2C%0A%0A%5D%0A%7D
+ ]},
