@@ -32,5 +32,12 @@
 "url":"https://raw.githubusercontent.com/Legion1907/-/main/avple4.txt",
 "import":"true"
 },
+
+{
+"name":"ไม่เหมาะสำหรับผู้มีอายุต่ำกว่า 18 ปี", 
+"image":"https://www.thaihealth.or.th/data/content/21494/cms/21494_thaihealth_xht756fzp19a.jpg",
+"url":"https://bit.ly/425HERk",
+"import":"true"
+},
 ]
 }
